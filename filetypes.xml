@@ -1,0 +1,31 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping ext="njk" type="HTML" />
+      <mapping ext="ftl" type="HTML" />
+      <mapping pattern="streetFromId" type="JSON" />
+      <mapping pattern="exceptionInterceptor.js" type="JavaScript" />
+      <mapping pattern="MainBar/MainBar.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="FieldSelect" type="PLAIN_TEXT" />
+      <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="applicazioni_grid_2.ftl" type="PLAIN_TEXT" />
+      <mapping pattern="news_preview_no_img" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="ActionBox/ActionBox.tsx" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="content" type="TypeScript" />
+      <mapping pattern="ResumeSinistriTab" type="TypeScript JSX" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

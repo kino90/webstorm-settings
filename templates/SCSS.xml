@@ -1,0 +1,9 @@
+<templateSet group="SCSS">
+  <template name="links" value="&amp;, &amp;:link, &amp;:active, &amp;:visited {&#10;    $baseStyles$&#10;}&#10;&#10;&amp;:focus, &amp;:hover {&#10;    $hoverStyles$&#10;}" shortcut="TAB" description="Links modifiers" toReformat="false" toShortenFQNames="true">
+    <variable name="baseStyles" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="hoverStyles" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

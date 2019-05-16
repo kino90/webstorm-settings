@@ -1,0 +1,30 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/Dev/personal" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>

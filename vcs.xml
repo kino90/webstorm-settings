@@ -1,0 +1,37 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fevrcoding/fevrcoding.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nicolabosco87/brewdog-beers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/liferay/clay" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.intesys.it/frontend/riello-investimenti.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.intesys.it" />
+          <option name="userName" value="lmaroni" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Dev" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
+</application>
