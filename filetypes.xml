@@ -8,6 +8,7 @@
       <mapping pattern="streetFromId" type="JSON" />
       <mapping pattern="exceptionInterceptor.js" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="MainBar/MainBar.tsx" type="PLAIN_TEXT" />
       <mapping pattern="FieldSelect" type="PLAIN_TEXT" />
       <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
