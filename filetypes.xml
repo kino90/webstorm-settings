@@ -1,34 +1,44 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="njk" type="HTML" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="streetFromId" type="JSON" />
       <mapping pattern="exceptionInterceptor.js" type="JavaScript" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
+      <mapping pattern="ActionBox/ActionBox.tsx" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="MainBar/MainBar.tsx" type="PLAIN_TEXT" />
       <mapping pattern="FieldSelect" type="PLAIN_TEXT" />
-      <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern="applicazioni_grid_2.ftl" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
-      <mapping pattern="news_preview_no_img" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="ActionBox/ActionBox.tsx" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="applicazioni_grid_2.ftl" type="PLAIN_TEXT" />
+      <mapping pattern="news_preview_no_img" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="content" type="TypeScript" />
       <mapping pattern="metodi_pagamento/metodi_pagamento_list.tsx" type="TypeScript JSX" />
       <mapping pattern="ResumeSinistriTab" type="TypeScript JSX" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
 </application>
