@@ -2534,6 +2534,11 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="BACKGROUND" value="424242" />
+      </value>
+    </option>
     <option name="TWIG_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
