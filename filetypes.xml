@@ -20,6 +20,7 @@
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="applicazioni_grid_2.ftl" type="PLAIN_TEXT" />
       <mapping pattern="news_preview_no_img" type="PLAIN_TEXT" />
+      <mapping pattern="BooleanRadio" type="PLAIN_TEXT" />
       <mapping ext="tsc" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
