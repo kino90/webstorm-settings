@@ -28,6 +28,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="content" type="TypeScript" />
+      <mapping pattern="radio_field/radio_field" type="TypeScript JSX" />
       <mapping pattern="metodi_pagamento/metodi_pagamento_list.tsx" type="TypeScript JSX" />
       <mapping pattern="ResumeSinistriTab" type="TypeScript JSX" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
