@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="[SCB] ALL - 00" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Bash" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\00 - [SCB] All.bat" />
+      <option name="COMMAND" value="C:\Program Files\Git\usr\bin\bash.exe" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="[SCB] Services - 01" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
