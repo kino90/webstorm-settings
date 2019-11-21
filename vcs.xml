@@ -26,6 +26,10 @@
           <option name="url" value="https://gitlab.intesys.it/frontend/docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.intesys.it/scb_et/scb_et.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Dev" />
