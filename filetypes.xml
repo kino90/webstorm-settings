@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="njk" type="HTML" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="streetFromId" type="JSON" />
@@ -11,8 +9,8 @@
       <mapping pattern="FieldSelect" type="PLAIN_TEXT" />
       <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="news_preview_no_img" type="PLAIN_TEXT" />
