@@ -1076,6 +1076,14 @@
         <option name="FOREGROUND" value="f2777a" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="686b6d" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="3e4143" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6699cc" />
