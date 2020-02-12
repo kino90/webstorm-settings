@@ -7,6 +7,7 @@
       <mapping pattern="exceptionInterceptor.js" type="JavaScript" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="FieldSelect" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
