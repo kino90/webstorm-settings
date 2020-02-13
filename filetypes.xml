@@ -7,7 +7,6 @@
       <mapping pattern="exceptionInterceptor.js" type="JavaScript" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="FieldSelect" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
@@ -22,6 +21,7 @@
       <mapping pattern="applicazioni_grid_2.ftl" type="PLAIN_TEXT" />
       <mapping pattern="_mdc-components" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="tsc" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
