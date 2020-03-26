@@ -5,6 +5,7 @@
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="streetFromId" type="JSON" />
       <mapping pattern="exceptionInterceptor.js" type="JavaScript" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="FieldSelect" type="PLAIN_TEXT" />
       <mapping pattern=".ext-reactrc" type="PLAIN_TEXT" />
@@ -14,7 +15,6 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="news_preview_no_img" type="PLAIN_TEXT" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern="MainBar/MainBar.tsx" type="PLAIN_TEXT" />
       <mapping pattern="ActionBox/ActionBox.tsx" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
@@ -22,15 +22,15 @@
       <mapping pattern="applicazioni_grid_2.ftl" type="PLAIN_TEXT" />
       <mapping pattern="_mdc-components" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="tsc" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="content" type="TypeScript" />
-      <mapping pattern="radio_field/radio_field" type="TypeScript JSX" />
       <mapping pattern="metodi_pagamento/metodi_pagamento_list.tsx" type="TypeScript JSX" />
+      <mapping pattern="radio_field/radio_field" type="TypeScript JSX" />
       <mapping pattern="ResumeSinistriTab" type="TypeScript JSX" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
