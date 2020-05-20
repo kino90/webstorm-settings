@@ -3,7 +3,7 @@
     <property name="created">2020-05-19T12:44:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-20T10:02:31</property>
+    <property name="modified">2020-05-20T10:42:48</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <colors>
@@ -894,27 +894,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fffff2" />
+        <option name="BACKGROUND" value="fffff8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f6fff6" />
+        <option name="BACKGROUND" value="fafffa" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff6ff" />
+        <option name="BACKGROUND" value="fffaff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f3fefe" />
+        <option name="BACKGROUND" value="f8fefe" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d9bcbc" />
+        <option name="BACKGROUND" value="eadbdb" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

@@ -646,27 +646,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="4d4d3f" />
+        <option name="BACKGROUND" value="46463f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="444d44" />
+        <option name="BACKGROUND" value="414641" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="4d444d" />
+        <option name="BACKGROUND" value="464146" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="404b4b" />
+        <option name="BACKGROUND" value="404646" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="533636" />
+        <option name="BACKGROUND" value="4a3a3a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

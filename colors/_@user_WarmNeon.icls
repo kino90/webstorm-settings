@@ -3,7 +3,7 @@
     <property name="created">2020-05-19T12:44:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-20T10:02:31</property>
+    <property name="modified">2020-05-20T10:42:49</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <colors>
@@ -567,27 +567,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="4d4d40" />
+        <option name="BACKGROUND" value="474740" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="444d44" />
+        <option name="BACKGROUND" value="424742" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="4d444d" />
+        <option name="BACKGROUND" value="474247" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="414c4c" />
+        <option name="BACKGROUND" value="414747" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="533636" />
+        <option name="BACKGROUND" value="4a3b3b" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
