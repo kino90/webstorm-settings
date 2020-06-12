@@ -51,7 +51,7 @@
         <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="65bdff" />
