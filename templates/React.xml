@@ -213,4 +213,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="story" value="import React from &quot;react&quot;;&#10;import $NAME$ from &quot;./$NAME$&quot;;&#10;&#10;export default {&#10;  title: &quot;$NAME$&quot;,&#10;  component: $NAME$,&#10;};&#10;&#10;export const Default: React.FC = () =&gt; (&#10;  &lt;$NAME$ /&gt;&#10;);&#10;" description="=== Create a Storybook story ===" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="capitalize(camelCase(substringBefore(fileNameWithoutExtension(), &quot;.&quot;)))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
