@@ -199,7 +199,7 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="fcp" value="import * as React from &quot;react&quot;;&#10;&#10;interface IOwnProps {}&#10;&#10;const $NAME$: React.FC&lt;IOwnProps&gt; = ({}) =&gt; {&#10;  return &lt;div&gt; $NAME$ &lt;/div&gt;;&#10;};&#10;&#10;&#10;export default $NAME$;&#10;" description="===Crea un componente funzionale NON CONNESSO A REDUX in Typescript ===" toReformat="false" toShortenFQNames="true">
+  <template name="fcp" value="import * as React from &quot;react&quot;;&#10;&#10;interface IProps {}&#10;&#10;const $NAME$: React.FC&lt;IProps&gt; = ({}) =&gt; {&#10;  return &lt;div&gt; $NAME$ &lt;/div&gt;;&#10;};&#10;&#10;&#10;export default $NAME$;&#10;" description="===Crea un componente funzionale NON CONNESSO A REDUX in Typescript ===" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
