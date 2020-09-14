@@ -3,7 +3,7 @@
     <property name="created">2020-07-27T15:10:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-09-10T11:49:19</property>
+    <property name="modified">2020-09-11T19:20:09</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -218,7 +218,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -514,27 +514,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="1c1c16" />
+        <option name="BACKGROUND" value="242417" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="171c18" />
+        <option name="BACKGROUND" value="1b241c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="1c171d" />
+        <option name="BACKGROUND" value="241b25" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="151b1c" />
+        <option name="BACKGROUND" value="172223" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="251516" />
+        <option name="BACKGROUND" value="341718" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
