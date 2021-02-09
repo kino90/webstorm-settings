@@ -1,65 +1,16 @@
 <toolSet name="External Tools">
-  <tool name="Bash" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="[SCB] Angular Portlet" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\liferay-bat\scb-deploy-angular-portlet.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/liferay-bat" />
+    </exec>
+  </tool>
+  <tool name="Bash" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Program Files\Git\usr\bin\bash.exe" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="[SCB] Services - 01" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\01 - [SCB] Services.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
-    </exec>
-  </tool>
-  <tool name="[SCB] Theme - 02" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\02 - [SCB] Theme.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
-    </exec>
-  </tool>
-  <tool name="[SCB] Login Theme - 03" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\03 - [SCB] Login Theme.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
-    </exec>
-  </tool>
-  <tool name="[SCB] Portlet - 04" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\04 - [SCB] Portlet.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
-    </exec>
-  </tool>
-  <tool name="[SCB] Angular Portlet - 05" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\05 - [SCB] Angular Portlet.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
-    </exec>
-  </tool>
-  <tool name="[SCB] Hook - 06" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\06 - [SCB] Hook.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
-    </exec>
-  </tool>
-  <tool name="[SCB] SwaggerUI - 07" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\07 - [SCB] Swagger.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
-    </exec>
-  </tool>
-  <tool name="[SCB] Unlock " showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Dev\workspace\santander_BAT\unlock.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Dev/workspace/santander_BAT" />
     </exec>
   </tool>
 </toolSet>
